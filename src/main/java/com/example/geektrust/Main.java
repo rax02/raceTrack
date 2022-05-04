@@ -10,7 +10,7 @@ public class Main {
             Scanner sc = new Scanner(fis); // file to be scanned
             // returns true if there is another line to read
             while (sc.hasNextLine()) {
-                System.out.println(sc.nextLine()); // returns the line that was skipped
+               //Add your code here to process input commands
             }
             sc.close(); // closes the scanner
         } catch (IOException e) {
