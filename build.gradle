@@ -61,5 +61,7 @@ repositories {
 
 //Add your dependencies here
 dependencies {
-    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version:'5.2.0'
+    implementation 'junit:junit:4.13.2'
+    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.8.2'
+    testImplementation 'org.mockito:mockito-junit-jupiter:4.6.1'
 }
