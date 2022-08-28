@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.geektrust.serviceTest.AdditionalServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-19T15:25:21" hostname="LAPTOP-PI6FS44I" time="1.271">
+  <properties/>
+  <testcase name="testing extendAdditionalTime: extended_successfully" classname="com.example.geektrust.serviceTest.AdditionalServiceTest" time="1.263"/>
+  <testcase name="testing extendAdditionalTime: invalid_exit_time" classname="com.example.geektrust.serviceTest.AdditionalServiceTest" time="0.004"/>
+  <testcase name="testing extendAdditionalTime: race_track_full" classname="com.example.geektrust.serviceTest.AdditionalServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
